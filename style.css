@@ -1,0 +1,81 @@
+body{
+    background-size: 100%;
+}
+
+.imagem{
+    width:80%;
+    border-radius: 30px;
+
+}
+.container{
+    position:relative;
+    height:100%;
+}
+
+
+h3{
+    color:rgb(192, 255, 203);
+    font-weight: 900;
+    
+    font-size: 40px;
+    text-shadow: 
+    -1px -1px 0px brown, 
+    -1px 1px 0px brown,                    
+     1px -1px 0px brown,                  
+     1px 1px 1px brown;
+}
+#titulo{
+    color:yellow;
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 
+    -1px -1px 2px #000, 
+    -1px 1px 2px #000,                    
+     1px -1px 2px #000,                  
+     1px 1px 3px #000;
+}
+
+
+button{
+    background-color:black;
+    border-radius: 30px;
+    font-weight: 900;
+    margin:20px;
+    padding:15px;
+    
+    color:white;
+    font-size: 20px;
+    box-shadow: 
+    -1px -1px 3px brown, 
+    -1px 1px 3px brown,                    
+     1px -1px 3px brown,                  
+     1px 1px 3px brown;
+}
+
+input{
+    background-color:white;
+    border-radius: 30px;
+    font-weight: 900;
+    margin:20px;
+    padding:25px;
+    
+    color:black;
+    font-size: 20px;
+    box-shadow: 
+    -1px -1px 0px brown, 
+    -1px 1px 0px brown,                    
+     1px -1px 0px brown,                  
+     1px 1px 1px brown;
+}
+p{
+    font-size: 25px;
+
+}
+#free{
+    font-weight: bold;
+    color:red
+}
+#mine{
+    color:green;
+    font-weight: bolder;
+}
